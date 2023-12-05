@@ -1,4 +1,4 @@
-# Project Name
+# Codeuix
 
 Short description of your awesome project.
 
@@ -16,15 +16,17 @@ Short description of your awesome project.
 - HTML5
 - CSS3
 - JavaScript
-- React.js (if applicable)
-- Any other relevant technologies
+- Angular 
+- Typescript
+- D3.js
+- Bootstrap
 
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/rajeshkumarsah/your-repo.git
     ```
 
 2. Navigate to the project directory:
@@ -39,9 +41,6 @@ Short description of your awesome project.
     npm install
     ```
 
-## Usage
-
-Describe how to use or run the project after installation. Include any configuration steps if necessary.
 
 ```bash
 npm start
